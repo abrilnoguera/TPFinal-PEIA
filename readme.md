@@ -10,7 +10,7 @@ Grupo: #1
 ## Equipo de Trabajo
 
 - **Abril Noguera**
-- **Carlos David Rodréguez**
+- **Carlos David Rodríguez**
 - **José Roberto Castro**
 
 ## Contenido del Repositorio
